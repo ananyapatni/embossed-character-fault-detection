@@ -7,3 +7,4 @@ A project that employs computer vision techniques and industry 4.0 framework to 
 2. enter the environment (use .venv\Scripts\Activate.ps1)
 3. install all the depencies "pip install -r requirements.txt"
 
+Note:- if powershell throws error for entering the environment. use "Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned" in powershell to allow script to run.
