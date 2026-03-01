@@ -1,10 +1,11 @@
 
 # Mould Cavity Fault Detection System
-A project that employs computer vision techniques and industry 4.0 framework to indentify and map manufactring defects to their source, hence reducing wastage and intensive human labour. 
+A project that employs computer vision techniques and the Industry 4.0 framework to identify and map manufacturing defects to their source, hence reducing wastage and intensive human labour. 
 
-# How to setup environment?
-1. create python environment by going to prefered directory and using python -m venv .venv
+# How to set up the environment?
+1. Create a Python environment by going to the preferred directory and using python -m venv .venv
 2. enter the environment (use .venv\Scripts\Activate.ps1)
-3. install all the depencies "pip install -r requirements.txt"
+3. Install all the dependencies "pip install -r requirements.txt."
 
-Note:- if powershell throws error for entering the environment. use "Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned" in powershell to allow script to run.
+Note:- If PowerShell throws an error when entering the environment. Use "Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned" in PowerShell to allow the script to run.
+Note 2:- PaddleOCR requires Python version 3.10 or higher, this will not work for older versions
