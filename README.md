@@ -8,4 +8,5 @@ A project that employs computer vision techniques and the Industry 4.0 framework
 3. Install all the dependencies "pip install -r requirements.txt."
 
 Note:- If PowerShell throws an error when entering the environment. Use "Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned" in PowerShell to allow the script to run.
+
 Note 2:- PaddleOCR requires Python version 3.10 or higher, this will not work for older versions
