@@ -77,4 +77,6 @@ tzdata==2025.3
 urllib3==2.6.3
 visualdl==2.5.3
 Werkzeug==3.1.6
+pytesseract==0.3.13
+gdown==5.2.0
 

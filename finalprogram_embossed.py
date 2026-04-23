@@ -8,7 +8,7 @@ from skimage.morphology import skeletonize
 # Point pytesseract at the Tesseract binary (remove if it's on your PATH)
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-img = cv2.imread(r'D:\Embossing\webcamtest.png')
+img = cv2.imread(r'D:\Embossing\images\top.jpeg')
 
 # --- ROI SELECTION ---
 # Optional: shrink the display window if the image is larger than your screen.
